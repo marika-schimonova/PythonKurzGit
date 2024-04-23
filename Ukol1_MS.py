@@ -16,6 +16,7 @@ class Zvire:
     
 pavouk = Zvire('Adolf', 'Tarantule Velká', 0.1)
 
+
 print(pavouk)
 print(pavouk.export_to_dict())
 
